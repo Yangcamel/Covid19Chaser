@@ -6,6 +6,8 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
-<body>이경민 다녀감 
+<body>
+	이경민 다녀감 
+	오석현도 다녀감 
 </body>
 </html>
